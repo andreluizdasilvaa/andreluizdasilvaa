@@ -1,4 +1,4 @@
-<picture> <img align="right" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2For68a2tqrbm5t5d36bwa.gif" width = 500px ></picture>
+<picture> <img align="right" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2For68a2tqrbm5t5d36bwa.gif" width = 400px ></picture>
 
 ## <picture><img src = "https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Terminal-Pc-104-icon.png" width = 30px></picture> Sobre
 

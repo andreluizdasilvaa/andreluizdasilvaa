@@ -21,9 +21,4 @@
 <br>
 
 ## 🛠️ Linguagens e Ferramentas
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,nodejs,express,mysql,sqlite,firebase,nextjs)![Languages](https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,tailwind,git,github,api)
-
-<br>
-
-<p>Total de visitantes até agora 👇</p>
-<img src="https://profile-counter.glitch.me/andreluizdasilvaa/count.svg">
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,nodejs,express,mysql,sqlite,firebase,mongodb,nextjs)![Languages](https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,tailwind,sass,git,github)
